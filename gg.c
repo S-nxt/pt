@@ -1,3 +1,4 @@
+First fit
 #include <stdio.h>
 
 #define NUM_B 7
